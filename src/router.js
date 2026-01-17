@@ -4,6 +4,7 @@ export const routes = [
     { path: "/", loader: () => import("./pages/index.js") },
     { path: "/refunds", loader: () => import("./pages/refunds.js") },
     { path: "/privacy", loader: () => import("./pages/privacy.js") },
+    { path: "/events", loader: () => import("./pages/events.js") },
     { path: "404", loader: () => import("./pages/404.js") }
 ];
 

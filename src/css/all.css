@@ -5,6 +5,7 @@
 @import url("footer.css");
 @import url("events.css");
 @import url("callToDonate.css");
+@import url("attendEvents.css");
 
 /* default colors */
 :root {

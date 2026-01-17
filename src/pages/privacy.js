@@ -1,6 +1,6 @@
 export default function refundsPage() {
     // set the title:
-    document.title = "Refund Policy | Kaylee Kares";
+    document.title = "Privacy Policy | Kaylee Kares";
 
     // create the page, which can be any element, but i recommend divs
     const page = document.createElement("div");
