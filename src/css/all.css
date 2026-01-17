@@ -1,0 +1,84 @@
+@import url("mainContainer.css");
+@import url("moreInfo.css");
+@import url("header.css");
+@import url("cta.css");
+@import url("footer.css");
+@import url("events.css");
+@import url("callToDonate.css");
+
+/* default colors */
+:root {
+    --background-color: #24272b;
+    --text-color: #e6e9ee;
+    --purple-accent: #9b7fd6;
+    --teal-accent: #4fb3a2;
+    --link-color: #9b7fd6;
+    --link-hover: #4fb3a2;
+}
+
+/* remove default margins */
+* {
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    font-family: "", sans-serif;
+}
+
+/* body styling */
+body {
+    background: var(--background-color);
+}
+
+/* default links */
+a {
+    text-decoration: none;
+    color: var(--link-color);
+    transition: all 0.15s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--link-hover);
+}
+
+/* main button */
+button.main {
+    background-color: var(--teal-accent);
+    color: #0f2f2a;
+    border: none;
+    border-radius: 12px;
+    padding: 12px 22px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button.main:hover {
+    background-color: #63c6b6;
+}
+
+button.main:active {
+    transform: scale(0.97);
+}
+
+/* secondary button */
+button.secondary {
+    background-color: transparent;
+    color: var(--purple-accent);
+    border: 2px solid var(--purple-accent);
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+button.secondary:hover {
+    background-color: rgba(155, 127, 214, 0.15);
+}
+
+/* description */
+.description {
+    opacity: 0.9;
+}

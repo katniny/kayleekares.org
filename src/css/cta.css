@@ -1,0 +1,12 @@
+.mainContainer .cta {
+    text-align: left;
+    margin-top: 5px;
+}
+
+.mainContainer .cta .text {
+    margin-bottom: 5px;
+}
+
+.mainContainer .cta button {
+    margin-bottom: 15px;
+}

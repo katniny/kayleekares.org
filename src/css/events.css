@@ -1,0 +1,15 @@
+.mainContainer .events {
+    text-align: left;
+}
+
+.mainContainer .events .event {
+    margin-top: 5px;
+    border: 1px solid var(--teal-accent);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.mainContainer .events .event button {
+    margin-top: 5px;
+}

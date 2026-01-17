@@ -1,0 +1,19 @@
+.mainContainer .header {
+    align-self: flex-start;
+}
+
+.mainContainer .header .flex {
+    display: flex;
+}
+
+.mainContainer .header .flex .kaylee {
+    width: 60px;
+    border-radius: 50%;
+}
+
+.mainContainer .header .flex .text {
+    transform: translateY(20px);
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: serif;
+}

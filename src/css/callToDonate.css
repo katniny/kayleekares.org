@@ -1,0 +1,14 @@
+.mainContainer .callToDonate {
+    text-align: right;
+}
+
+.mainContainer .donations .amount {
+    font-size: 45px;
+    font-family: serif;
+    margin: 0;
+}
+
+.mainContainer .donations .sub {
+    font-size: 20px;
+    margin-bottom: 20px;
+}

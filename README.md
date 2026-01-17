@@ -1,0 +1,2 @@
+# Kaylee Kares
+Kaylee Kares is a non-profit aiming to help suicide preventions organizations,  schools across the U.S., among other community programs - made in memory of Kaylee Paris, who tragically committed suicide on April 16, 2025.

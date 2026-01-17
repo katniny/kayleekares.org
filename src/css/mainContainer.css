@@ -1,0 +1,20 @@
+/* center vertically + horizontally */
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    padding: 32px 24px;
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    border: 1px solid rgba(155, 127, 214, 0.6);
+    border-radius: 16px;
+    background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* donate btn */
+.mainContainer .donateBtn {
+    margin-top: 15px;
+}

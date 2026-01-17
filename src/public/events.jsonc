@@ -1,0 +1,15 @@
+{
+    // our silent auction event
+    "silentAuction": {
+        "time": {
+            "string": "January 25, 2026 at 1:00PM to 4:00PM",
+            "googleCalendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=Silent+Auction+for+Kaylee%27s+Headstone&dates=20260125T200000Z/20260125T230000Z&details=Come+join+us+at+Studio+621+and+partake+in+a+silent+auction+-+all+proceeds+will+go+toward+Kaylee%27s+headstone.&location=621+N+Main+St,+Spearfish+SD"
+        },
+        "desc": "Come join us at Studio 621 and partake in a silent auction - all proceeds will go toward Kaylee's headstone.",
+        "address": {
+            "string": "621 N Main St, Spearfish SD",
+            "googleMapsLink": "https://www.google.com/maps/place/Studio+621/@44.4893874,-103.8592192,16z/data=!3m1!4b1!4m6!3m5!1s0x53329916ee903779:0x2da75bcdb79e8127!8m2!3d44.4893874!4d-103.8592192!16s%2Fg%2F11gxvsl4kf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D"
+        }
+    }
+    // no other ones are planned atm
+}
