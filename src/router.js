@@ -2,6 +2,8 @@
 // defines all routes in the app, each with a path and a loader function
 export const routes = [
     { path: "/", loader: () => import("./pages/index.js") },
+    { path: "/refunds", loader: () => import("./pages/refunds.js") },
+    { path: "/privacy", loader: () => import("./pages/privacy.js") },
     { path: "404", loader: () => import("./pages/404.js") }
 ];
 

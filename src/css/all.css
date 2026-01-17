@@ -82,3 +82,8 @@ button.secondary:hover {
 .description {
     opacity: 0.9;
 }
+
+/* default list items */
+ul li {
+    margin-left: 20px;
+}
